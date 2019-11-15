@@ -1,4 +1,5 @@
 # PageRank_Algorithm
-This project is an implementation of the page_rank algorithm
+这个项目是算法pagerank的实现
 
-The file n01_page_rank_example.py is include an example of page_rank algorithm
+    文件 n01_page_rank_example.py 里面是一个小例子，根据这个例子就可以看到pagerank代码的计算过程了
+    文件 n02_tanh_change.py 是一个无关的文件，备份在这个项目里
